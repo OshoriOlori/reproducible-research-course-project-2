@@ -1,7 +1,7 @@
 
 ---
 title: "Analysis of U.S. Storm Event Data and the Impact on Population Health and the Economy"
-author: "Jeffrey Hunter"
+author: "Oshoriame Olorife"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
   html_document:
