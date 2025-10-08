@@ -2,8 +2,6 @@
 
 **Oshoriame Olorife**
 
-April 27, 2019
-
 ## Project
 
 Peer-graded Assignment: Course Project 2
