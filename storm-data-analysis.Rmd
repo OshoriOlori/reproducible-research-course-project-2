@@ -1,6 +1,6 @@
 ---
 title: "Analysis of U.S. Storm Event Data and the Impact on Population Health and the Economy"
-author: "Jeffrey Hunter"
+author: "Oshoriame Olorife"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
   html_document:
@@ -30,7 +30,7 @@ Peer-graded Assignment
 
 * This course project is available on GitHub
 
-    <a href="https://github.com/oraclejavanet/reproducible-research-course-project-2" target="_top">Reproducible Research Course Project 2</a>
+    <a href="https://github.com/Oshoriame Olorife/reproducible-research-course-project-2" target="_top">Reproducible Research Course Project 2</a>
 
 ## Synonpsis
 
